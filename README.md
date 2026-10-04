@@ -1,5 +1,7 @@
-# Santosh Manapragada — Technology Career Mentoring (V2)
+# Santosh Manapragada — Professional Journey V1
 
-GitHub Pages-ready static website. V2 keeps the V1 information architecture but adds cinematic background artwork, journey visuals, a continuous-learning loop, and a more personal technology/human visual language.
+Static GitHub Pages-ready professional journey site.
 
-Publish by uploading `index.html` and `styles.css` to a GitHub Pages repository and enabling Pages from the `main` branch root.
+Story: Software Engineering → Architecture → Engineering Leadership → Agentic Systems Architecture.
+
+No build step or backend required.
